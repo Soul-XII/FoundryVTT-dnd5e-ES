@@ -1,5 +1,4 @@
 // dnd5eESSheet
-// @author Cosmo Corban
 
 import { DND5E } from "../../systems/dnd5e/module/config.js";
 import { ActorSheet5eCharacter as Actor} from "../../systems/dnd5e/module/actor/sheets/character.js";
