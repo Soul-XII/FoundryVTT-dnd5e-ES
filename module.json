@@ -5,7 +5,7 @@
   "version": "0.88.1",
   "minimumCoreVersion" : "0.5.2",
   "compatibleCoreVersion": "0.5.5",
-  "author": "",
+  "author": "Soul",
   "systems": ["dnd5e"],
   "esmodules": ["dnd5eES.js"],
   "scripts": [],
@@ -19,5 +19,5 @@
   }],
     
   "url": "https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES",
-  "manifest": "https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES/blob/master/module.json",
+  "manifest": "https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES/blob/master/module.json"
 }
