@@ -19,6 +19,6 @@
   }],
     
   "url": "https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES",
-  "manifest": "https://raw.githubusercontent.com/soul-ctrl/FoundryVTT-dnd5e-ES/master/es-ES/module.json",
+  "manifest": "https://raw.githubusercontent.com/soul-ctrl/FoundryVTT-dnd5e-ES/master/module.json",
   "download": "https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES/archive/v0.1.zip"
 }
