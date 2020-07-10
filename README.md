@@ -8,4 +8,4 @@ Yo solo he modificado la traducción y la he adaptado al castellano
 
 * url - https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES
 * manifest - https://raw.githubusercontent.com/soul-ctrl/FoundryVTT-dnd5e-ES/master/es-ES/module.json
-* download - https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES/archive/v0.1.zi
+* download - https://github.com/soul-ctrl/FoundryVTT-dnd5e-ES/archive/v0.1.zip
